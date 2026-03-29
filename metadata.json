@@ -1,0 +1,7 @@
+{
+  "name": "MarketInsight Pro Global",
+  "description": "Professional market analysis tool using Gemini 2.0 Flash and Google Search to discover winning products globally.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
